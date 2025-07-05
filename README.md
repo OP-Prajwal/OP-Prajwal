@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 💻 Building full-stack apps with **MongoDB, Express, React, Node.js**
+- 💻 Building full-stack apps with **MongoDB, Express, React, Node.js, Next.js**
 - 🧠 Crafting intelligent systems with **TensorFlow, PyTorch, LangChain**
-- ⚙️ Love working on **AI agents, LLM pipelines, real-time detection**
-- 🌱 Currently exploring **multimodal AI** and **video analysis**
-- 📈 Learning how to scale ML systems in production
+- ⚙️ Love working on **AI agents, LLM pipelines, and real-time detection tools**
+- 🌱 Currently exploring **multimodal AI** and **video deepfake detection**
+- 📈 Learning how to scale and deploy AI/ML models in production environments
 
 ---
 
@@ -21,10 +21,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔊 [**AuraAuth**](https://github.com/OP-Prajwal/AuraAuth) | Detects human vs AI-generated **audio** (video coming soon!) | Python, Deep Learning, FastAPI, React |
-| 🧠 Voice Classifier | CNN-based model for voice classification | TensorFlow, Librosa, Flask |
-| 🧠 LMS with RAG | Retrieval-Augmented Learning System | LangChain, Google Gemini, ChromaDB |
-| 🧑‍💻 GitHub Clone | GitHub-like app with custom CLI + auth | MERN, JWT, PostgreSQL, Prisma |
+| 🔊 [**AuraAuth**](https://github.com/OP-Prajwal/AuraAuth) | Detects human vs AI-generated **audio** (video under development) | Python, Deep Learning, FastAPI, React |
+| 🔍 RAG-based Query System | Natural language querying of structured/unstructured data | LangChain, Google Gemini, ChromaDB, FastAPI |
+| 🏠 Real Estate Management | Filter and sort property listings by location and features | MERN Stack (MongoDB, Express, React, Node.js) |
+| 🔧 [**Pithub**](https://github.com/OP-Prajwal/Pithub) | GitHub-style clone with repo management and custom CLI | MERN, JWT, Prisma, PostgreSQL |
 
 ---
 
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
@@ -63,20 +64,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OP-Prajwal&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-Prajwal&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/prajwal-gaonkar-a57586195"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="prajwalgaonkar24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:prajwalgaonkar24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
