@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 Building full-stack apps with **MongoDB, Express, React, Node.js, Next.js**
+- 💻 Building full-stack apps with **MongoDB, Express, React, Node.js, Next.js,postgress**
 - 🧠 Crafting intelligent systems with **TensorFlow, PyTorch, LangChain**
 - ⚙️ Love working on **AI agents, LLM pipelines, and real-time detection tools**
 - 🌱 Currently exploring **multimodal AI** and **video deepfake detection**
@@ -24,7 +24,7 @@
 | 🔊 [**AuraAuth**](https://github.com/OP-Prajwal/AuraAuth) | Detects human vs AI-generated **audio** (video under development) | Python, Deep Learning, FastAPI, React |
 | 🔍 RAG-based Query System | Natural language querying of structured/unstructured data | LangChain, Google Gemini, ChromaDB, FastAPI |
 | 🏠 Real Estate Management | Filter and sort property listings by location and features | MERN Stack (MongoDB, Express, React, Node.js) |
-| 🔧 [**Pithub**](https://github.com/OP-Prajwal/Pithub) | GitHub-style clone with repo management and custom CLI | MERN, JWT, Prisma, PostgreSQL |
+| 🔧 [**Pithub**](https://github.com/OP-Prajwal/Pithub) | GitHub-style clone with repo management and custom CLI | MERN, JWT, Mongodb, mongoose ,commander.js|
 
 ---
 
