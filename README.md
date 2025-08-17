@@ -22,8 +22,8 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔊 [**AuraAuth**](https://github.com/OP-Prajwal/AuraAuth) | Detects human vs AI-generated **audio** (video under development) | Python, Deep Learning, FastAPI, React |
-| 🔍 RAG-based Query System | Natural language querying of structured/unstructured data | LangChain, Google Gemini, ChromaDB, FastAPI |
-| 🏠 Real Estate Management | Filter and sort property listings by location and features | MERN Stack (MongoDB, Express, React, Node.js) |
+| 🔍 [**RAG-based Query System**](https://github.com/OP-Prajwal/AI-database-Manager) | Natural language querying of structured/unstructured data | LangChain, Google Gemini, ChromaDB, FastAPI |
+| 🏠 [**Real Estate Management **](https://github.com/OP-Prajwal/RealEstate) | Filter and sort property listings by location and features | MERN Stack (MongoDB, Express, React, Node.js) |
 | 🔧 [**Pithub**](https://github.com/OP-Prajwal/Pithub) | GitHub-style clone with repo management and custom CLI | MERN, JWT, Mongodb, mongoose ,commander.js|
 
 ---
