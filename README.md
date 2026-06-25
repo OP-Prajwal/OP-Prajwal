@@ -1,35 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Gaonkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=55&descSize=17&descColor=c4b5fd" />
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Gaonkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=55&descSize=17&descColor=c4b5fd)](https://github.com/OP-Prajwal)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+applications+%F0%9F%9A%80;MERN+%7C+FastAPI+%7C+LangChain+%7C+PyTorch+%7C+Rust;LLM+Pipelines+%E2%80%A2+RAG+Systems+%E2%80%A2+Deepfake+Detection;Containerized+%E2%80%A2+CI%2FCD-ready+%E2%80%A2+Production-grade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+applications;MERN+%7C+FastAPI+%7C+LangChain+%7C+PyTorch+%7C+Rust;LLM+Pipelines+%7C+RAG+Systems+%7C+Deepfake+Detection;Containerized+%7C+CI%2FCD-ready+%7C+Production-grade)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👤 Who Am I
+## 👨‍💻 About Me
 
-```yaml
-name       : Prajwal Gaonkar
-role       : Full-Stack Developer & AI/ML Engineer
-location   : India 🇮🇳
-focus      : Multimodal AI · Deepfake Detection · LLM Agents
-stack      : MERN · FastAPI · PyTorch · LangChain · Docker · Kubernetes
-open_to    : Full-time roles · Freelance · Collaborations
-contact    : prajwalgaonkar24@gmail.com
-```
+<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
----
+🔭 &nbsp;Building **multimodal AI** systems & a **video deepfake detector** from scratch  
+🤖 &nbsp;Designing **multi-agent LLM pipelines** — LangGraph, CrewAI, RAG architectures  
+🐳 &nbsp;Everything I ship is **containerized** & **CI/CD-ready** — Docker · K8s · GitHub Actions  
+⚡ &nbsp;I care as much about **system performance** as I do about **model accuracy**  
+🌍 &nbsp;Based in **India** · Open to **remote full-time roles, freelance & collaborations**  
+📬 &nbsp;Reach me at **prajwalgaonkar24@gmail.com**
 
-## 🧠 What I Build
-
-I sit at the intersection of **modern web engineering** and **cutting-edge AI** — shipping intelligent, production-grade systems end to end.
-
-- 🔭 Currently building **multimodal AI** systems and a **video deepfake detector** from scratch
-- 🤖 Designing **multi-agent LLM pipelines** with LangGraph, CrewAI, and RAG architectures
-- 🐳 Everything I ship is **containerized** and **CI/CD-ready** — Docker, Kubernetes, GitHub Actions
-- ⚡ I care equally about model accuracy and system performance in production
+<br/>
 
 ---
 
@@ -105,4 +95,4 @@ I sit at the intersection of **modern web engineering** and **cutting-edge AI** 
   <img src="https://komarev.com/ghpvc/?username=OP-Prajwal&color=7c6fcd&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn)](https://github.com/OP-Prajwal)
